@@ -1,0 +1,4 @@
+[1209/160138.407:ERROR:file_io_win.cc(161)] CreateFile C:\Users\KASHAF~1.NAZ\AppData\Local\Temp\scoped_dir21672_1458748234\Crashpad\settings.dat: The system cannot find the file specified. (0x2)
+[0109/153514.574:ERROR:file_io_win.cc(161)] CreateFile C:\Users\KASHAF~1.NAZ\AppData\Local\Temp\scoped_dir10060_1441730268\Crashpad\settings.dat: The system cannot find the path specified. (0x3)
+[0109/153514.576:ERROR:file_io_win.cc(170)] CreateFile C:\Users\KASHAF~1.NAZ\AppData\Local\Temp\scoped_dir10060_1441730268\Crashpad\reports\5a8650cb-fe97-47c7-b9f3-5644cc457201.dmp: The system cannot find the path specified. (0x3)
+[0109/153514.576:ERROR:crash_report_exception_handler.cc(97)] PrepareNewCrashReport failed
